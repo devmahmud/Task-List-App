@@ -1,6 +1,8 @@
 # Task-List-App
 A task list DOM manipulation app where data is stored locally in browser localStorage. We can add new task, delete task, or filter task.
 
+<code>To see the result simply open the index.html file in your browser</code>
+
 <h3>Project Snapshot</h3>
 <div align="center">
     <img src="https://user-images.githubusercontent.com/19981097/56231793-1a5fd500-60a1-11e9-9553-f2fc0fe8fff7.png" width="100%"</img> 
